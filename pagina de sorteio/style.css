@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(161, 161, 161);
+}
+
+#box{
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#boxt{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 1px 3px 9px red;
+    background-color: rgb(238, 45, 45);
+}
+
+h1{
+    color:white;
+    display: inline-block;
+    position: static;
+    font-size: 50px;
+}
+
+button{
+    width: 50%;
+    position: static;
+    margin: auto;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    font-size: 25px;   
+    
+}
+
+
+button:hover{
+    background-color: rgb(46, 37, 87);
+}
